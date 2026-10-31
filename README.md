@@ -1,4 +1,4 @@
-# Hi, I'm Tanay Totade 👋
+# Hi, I'm Tanay Totade 
 
 ### Aspiring Data Analyst \| SQL \| Python \| Power BI \| Tableau
 
@@ -14,7 +14,7 @@ communicate business insights.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 -   **Data Analysis:** Data Cleaning, Data Preprocessing, Exploratory
     Data Analysis (EDA), Data Visualization, KPI Analysis
@@ -26,7 +26,7 @@ communicate business insights.
 -   **Tools:** Microsoft Excel, Jupyter Notebook, MySQL Workbench, Git,
     GitHub
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 1. Brazilian E-Commerce (Olist) Data Analysis
 
@@ -60,7 +60,7 @@ GitHub](https://github.com/TanayTotade/Airline-dashboard-analysis)
 -   Visualized flight trends and airport-level patterns to communicate
     passenger and airline performance insights.
 
-## 🏆 HackerRank Achievements
+##  HackerRank Achievements
 
 -   **Python:** Solved 115 practice problems and earned a 5-star Gold
     Python badge.
@@ -70,7 +70,7 @@ GitHub](https://github.com/TanayTotade/Airline-dashboard-analysis)
 [Visit my HackerRank
 profile](https://www.hackerrank.com/profile/tanay_t99)
 
-## 🎓 Education & Training
+##  Education & Training
 
 -   **Bachelor of Engineering -- Information Technology**\
     Yeshwantrao Chavan College of Engineering (YCCE), Nagpur \| 2022
@@ -81,12 +81,12 @@ Coursework included SQL and MySQL, Python for Data Analysis, Pandas and
 NumPy, data cleaning and EDA, Power BI, Tableau, Excel, data
 visualization, and Business Intelligence fundamentals.
 
-## 💡 Core Strengths
+##  Core Strengths
 
 Analytical Thinking · Problem Solving · Data Interpretation · Attention
 to Detail · Logical Reasoning · Communication
 
-## 📫 Contact
+##  Contact
 
 -   **Email:** <tanay.t99@gmail.com>
 -   **Location:** Nagpur, Maharashtra, India
